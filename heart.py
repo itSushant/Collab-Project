@@ -9,3 +9,4 @@ right(140)
 circle(50,200)
 forward(133)
 end_fill
+payment {send money}
